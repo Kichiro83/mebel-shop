@@ -1,0 +1,25 @@
+body, .thumbnail {
+    background-color: white;
+}
+.thumbnail img{
+    max-width: 150px;
+}
+.thumbnail .description {
+    color:#7f7f7f;
+}
+.thumbnail .price{
+    font-weight: bold ;
+    font-size: 20px;
+}
+.panel-body .list-group .list-group-item a {
+    margin-left: 580px;
+}
+
+.add-user {
+    display:block;
+}
+.category .row>.col-* {
+    margin-top: 25px !important;
+    margin-bottom: 25px !important;
+}
+
